@@ -2,7 +2,6 @@
 
 **A business strategy case study — GTM strategy for AB InBev's energy-drink brand, Budweiser Beats, in India's digital-first retail landscape.**
 
-📊 [View the full deck](./Budweiser_Beats_India_GTM_Strategy.pptx)
 
 ---
 
